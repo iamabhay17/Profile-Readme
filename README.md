@@ -1,4 +1,4 @@
-![banner](./assets/banner.png)
+![banner](./banner.png)
 
 # Hey there, I am Abhay Bhardwaj👋!
 
