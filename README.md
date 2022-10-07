@@ -2,7 +2,7 @@
 
 # Hey there, I am Abhay Bhardwaj👋!
 
-I’m a MERN Developer and Computer Science underGrad living in INDIA.
+I’m a MERN Developer and CS underGrad living in Uttrakhand,India.
 here are my [portfolio](https://iamabhay.vercel.app/) and [leetcode](https://leetcode.com/iamabhay17/) links check them out.
 
 ## 🛠 Tech stuff i know 
