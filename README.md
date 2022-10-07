@@ -7,17 +7,7 @@ here are my [portfolio](https://iamabhay.vercel.app/) and [leetcode](https://lee
 
 ## 🛠 Tech stuff i know 
 
-<img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
-
-<img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/>
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/148/148825.png"/>
-<img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/>
-<img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/>
-<img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/>
-<img  align="center" height="30" src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
+<img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/><img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/><img align="center" height="30" src="https://img.icons8.com/color/48/000000/redux.png"/><img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/148/148825.png"/><img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/><img  align="center" height="30" src="https://img.icons8.com/color/48/000000/sass.png"/><img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/><img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/>
 
 ## :zap: Love reading your messages, shoot'em here :point_down:
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/abhay-bhardwaj-146250181/)
